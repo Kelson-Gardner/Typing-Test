@@ -1,0 +1,15 @@
+#container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid blue;
+  margin-left: 25%;
+  width: 50%;
+}
+#text-input {
+  display: flex;
+  width: 30%;
+  margin-left: 35%;
+  border: 1px solid green;
+  text-align: left;
+  white-space: wrap;
+}
