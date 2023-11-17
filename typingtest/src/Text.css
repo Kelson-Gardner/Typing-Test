@@ -1,9 +1,7 @@
 #container {
   display: flex;
   justify-content: center;
-  border: 1px solid blue;
-  margin-left: 25%;
-  width: 50%;
+  font-size: 50px;
 }
 #text-input {
   display: flex;
@@ -12,4 +10,13 @@
   border: 1px solid green;
   text-align: left;
   white-space: wrap;
+}
+.colored {
+  color: red;
+}
+#wrong-count {
+  font-size: 100px;
+  color: red;
+  display: flex;
+  justify-content: center;
 }
